@@ -14,6 +14,7 @@ Test 2
 Test 3
 * Login to the application
 * Make an order with a total value between $30-$60
+  
 * Test OrdertWithTotalValueBetween30_60_Testt.java is created and located here : TelusAssignment\src\test\java\frontend\OrdertWithTotalValueBetween30_60_Test.java
 
 BACK END AUTOMATION SCRIPT
