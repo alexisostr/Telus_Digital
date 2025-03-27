@@ -1,0 +1,11 @@
+{
+    "firstname": "Java",
+    "lastname": "RestAssured",
+    "totalprice": 1100,
+    "depositpaid": true,
+    "bookingdates": {
+         "checkin": "2025-03-30",
+        "checkout": "2025-05-05"
+    },
+    "additionalneeds": "breakfast"
+    }

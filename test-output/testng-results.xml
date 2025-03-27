@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-27T14:57:50 EDT" name="Default suite" finished-at="2025-03-27T14:57:55 EDT" duration-ms="5145">
+    <groups>
+    </groups>
+    <test started-at="2025-03-27T14:57:50 EDT" name="Default test" finished-at="2025-03-27T14:57:55 EDT" duration-ms="5145">
+      <class name="backend.RestAPIChainTest">
+        <test-method signature="postAPIRequestToGetBookingID()[pri:0, instance:backend.RestAPIChainTest@5656be13]" started-at="2025-03-27T14:57:50 EDT" name="postAPIRequestToGetBookingID" description="Add new booking" finished-at="2025-03-27T14:57:54 EDT" duration-ms="4480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPIRequestToGetBookingID -->
+        <test-method signature="postAPIRequestToGetToken()[pri:1, instance:backend.RestAPIChainTest@5656be13]" started-at="2025-03-27T14:57:54 EDT" name="postAPIRequestToGetToken" description="Get Token" finished-at="2025-03-27T14:57:55 EDT" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAPIRequestToGetToken -->
+        <test-method signature="putAPIRequestUsingToken()[pri:2, instance:backend.RestAPIChainTest@5656be13]" started-at="2025-03-27T14:57:55 EDT" name="putAPIRequestUsingToken" description="Update booking" finished-at="2025-03-27T14:57:55 EDT" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putAPIRequestUsingToken -->
+      </class> <!-- backend.RestAPIChainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
